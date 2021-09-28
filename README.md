@@ -1,1 +1,1 @@
-# blong-<img src="https://imgur.com/a/usH7vN1">
+để sửa thông tin, vào file config.js
